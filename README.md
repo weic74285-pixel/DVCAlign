@@ -1,4 +1,4 @@
-![DVCAlign model overview](assets/model-figure.svg)
+![DVCAlign model overview](assets/Graphic%20Abstract.svg)
 
 # DVCAlign
 
@@ -6,7 +6,7 @@ DVCAlign is a Python package for alignment and integration of spatial transcript
 
 ## Repository
 
-- GitHub: https://github.com/VitaIntelli-CQU/DVCAlign
+- GitHub: https://github.com/weic74285-pixel/DVCAlign
 - Author: Cheng Wei
 - Contact: 2804775192@qq.com
 
@@ -129,4 +129,4 @@ adata = DVCAlign.mclust_R(adata, num_cluster=7, used_obsm="DVCAlign")
 
 If this repository supports your research, please cite:
 
-Cheng Wei. DVCAlign. GitHub repository. https://github.com/VitaIntelli-CQU/DVCAlign
+Cheng Wei. DVCAlign. GitHub repository. https://github.com/weic74285-pixel/DVCAlign

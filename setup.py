@@ -5,7 +5,7 @@ from setuptools import find_packages, setup
 __lib_name__ = "DVCAlign"
 __lib_version__ = "1.0.0"
 __description__ = "Integrating spatial transcriptomics data across different conditions, technologies, and developmental stages"
-__url__ = "https://github.com/VitaIntelli-CQU/DVCAlign"
+__url__ = "https://github.com/weic74285-pixel/DVCAlign"
 __author__ = "Cheng Wei"
 __author_email__ = "2804775192@qq.com"
 __license__ = "All rights reserved"
